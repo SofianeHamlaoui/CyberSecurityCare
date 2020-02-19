@@ -2,7 +2,7 @@
 # Config file, I "import os" to use "os.getenv()" to get environment variables
 # I don't want to share my API and Access Token keys with everyone
 # using "import logging" for error logs
-
+# Set EnvVar : export $VARNAME=""
 import tweepy
 import logging
 import os
