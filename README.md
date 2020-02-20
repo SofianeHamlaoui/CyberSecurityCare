@@ -1,7 +1,7 @@
 
 ![logo](screenshots/logo_lg.png)
 
-# CyberSecurityBot
+# CyberSecurityCare
 ## A python Twitter bot that looks for and retweet tweets cotaining the the below twitter tags :
 
 ```
