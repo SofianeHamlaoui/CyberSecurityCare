@@ -1,5 +1,6 @@
 
-[![logo](https://github.com/SofianeHamlaoui/CyberSecurityBot/blob/master/screenshots/logo_lg.png)](https://github.com/SofianeHamlaoui/CyberSecurityBot)
+![logo](screenshots/logo_lg.png)
+
 # CyberSecurityBot
 ## A python Twitter bot that looks for and retweet tweets cotaining the the below twitter tags :
 
@@ -29,7 +30,7 @@ APScheduler
 
 ### ``` get_token.py ```
 - To get "Access Token & Access Token Secret" to use the bot with another account (other than the app creator account)
-![get_token.py file](https://github.com/SofianeHamlaoui/CyberSecurityBot/blob/master/screenshots/get_token.png)
+![get_token.py file](creenshots/get_token.png)
 
 ***NOTE : [FOR CySecbot_user.py] AFTER GETTING THE TOKEN KEYS, YOU CAN SET THE KEY VALUES AS ENV VARIAVLES (RECOMMANDED WAY TO STORE YOUR KEYS)***
 
@@ -43,22 +44,22 @@ export ACCESS_TOKEN_SECRET="KEY"
 ```
 ### ``` Config.py ```
 - - you can use this file to configure your Access/Token keys and use them everywhere by importing the file
-![Config.py file](https://github.com/SofianeHamlaoui/CyberSecurityBot/blob/master/screenshots/config.png)
+![Config.py file](screenshots/config.png)
 
 ### ``` Clock.py ```
 - - scheduling bot's job 
-![Clock.py file](https://github.com/SofianeHamlaoui/CyberSecurityBot/blob/master/screenshots/Clock.png)
+![Clock.py file](screenshots/Clock.png)
 
 ### ***Bot Files*** 
 
 ### ``` CySecbot_user.py ```
 - - The Twitter bot, but configuring using user inputs (setting search queries && number of retweets) 
-![CySecbot_user file](https://github.com/SofianeHamlaoui/CyberSecurityBot/blob/master/screenshots/CySecbot_user.png)
+![CySecbot_user file](screenshots/CySecbot_user.png)
 
 
 ### ``` CySecbot_auto.py ```
 - - The Twitter bot, that runs automaticly without user inputs (change the file to your own use case)
-![CySecbot_auto file](https://github.com/SofianeHamlaoui/CyberSecurityBot/blob/master/screenshots/CySecbot_auto.png)
+![CySecbot_auto file](screenshots/CySecbot_auto.png)
 
 ### ***Folders*** 
 
