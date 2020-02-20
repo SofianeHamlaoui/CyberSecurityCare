@@ -1,3 +1,7 @@
+<p align="center">
+  <img  src="https://github.com/SofianeHamlaoui/CyberSecurityBot/blob/master/screenshots/logo.png" height="250" width="250">
+</p>
+
 # CyberSecurityBot
 A Twitter python bot that looks for and retweet tweets cotaining the the below twitter tags : 
 
