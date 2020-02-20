@@ -17,6 +17,7 @@ Of course, the bot was optimized to use with other Twitter operators queries ( y
 # Requirements : 
 
 ```
+A Twitter developer account
 tweepy
 APScheduler
 ```
