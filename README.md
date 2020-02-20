@@ -2,8 +2,8 @@
   <img  src="https://github.com/SofianeHamlaoui/CyberSecurityBot/blob/master/screenshots/logo.png" height="250" width="250">
 </p>
 
-# CyberSecurityBot
-A Twitter python bot that looks for and retweet tweets cotaining the the below twitter tags : 
+<strong><b><h1 align="center" >CyberSecurityBot -</h1></b>
+<h3 align="center" >A Twitter python bot that looks for and retweet tweets cotaining the the below twitter tags : </h3> 
 
 ```
 #cybersecurity #pentesting #security #infosec #linux #Bugbountytip #bugbountytips #malware #hacking
@@ -68,3 +68,4 @@ export ACCESS_TOKEN_SECRET="KEY"
 
 ### ``` _Schedulejob ```
 - - A folder with all required files for deploying the bot on a unix/linux machine 
+</strong>
