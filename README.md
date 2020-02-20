@@ -1,5 +1,9 @@
-# CyberSecurityBot
-A Twitter python bot that looks for and retweet tweets cotaining the the below twitter tags : 
+<p align="center">
+  <img  src="https://github.com/SofianeHamlaoui/CyberSecurityBot/blob/master/screenshots/logo.png" height="250" width="250">
+</p>
+
+<strong><b><h1 align="center" >CyberSecurityBot</h1></b>
+<h3 align="center" >A python Twitter bot that looks for and retweet tweets cotaining the the below twitter tags : </h3> 
 
 ```
 #cybersecurity #pentesting #security #infosec #linux #Bugbountytip #bugbountytips #malware #hacking
@@ -13,6 +17,7 @@ Of course, the bot was optimized to use with other Twitter operators queries ( y
 # Requirements : 
 
 ```
+A Twitter developer account
 tweepy
 APScheduler
 ```
@@ -64,3 +69,4 @@ export ACCESS_TOKEN_SECRET="KEY"
 
 ### ``` _Schedulejob ```
 - - A folder with all required files for deploying the bot on a unix/linux machine 
+</strong>
