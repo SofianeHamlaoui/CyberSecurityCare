@@ -1,9 +1,7 @@
-<p align="center">
-  <img  src="https://github.com/SofianeHamlaoui/CyberSecurityBot/blob/master/screenshots/logo.png" height="250" width="250">
-</p>
+![logo](https://github.com/SofianeHamlaoui/CyberSecurityBot/blob/master/screenshots/logo_lg.png)
 
-<strong><b><h1 align="center" >CyberSecurityBot</h1></b>
-<h3 align="center" >A python Twitter bot that looks for and retweet tweets cotaining the the below twitter tags : </h3> 
+# CyberSecurityBot
+## A python Twitter bot that looks for and retweet tweets cotaining the the below twitter tags :
 
 ```
 #cybersecurity #pentesting #security #infosec #linux #Bugbountytip #bugbountytips #malware #hacking
