@@ -1,5 +1,5 @@
-![logo](https://github.com/SofianeHamlaoui/CyberSecurityBot/blob/master/screenshots/logo_lg.png)
 
+[![logo](https://github.com/SofianeHamlaoui/CyberSecurityBot/blob/master/screenshots/logo_lg.png)](https://github.com/SofianeHamlaoui/CyberSecurityBot)
 # CyberSecurityBot
 ## A python Twitter bot that looks for and retweet tweets cotaining the the below twitter tags :
 
