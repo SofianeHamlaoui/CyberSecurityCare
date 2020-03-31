@@ -5,13 +5,13 @@
 ## A python Twitter bot that looks for and retweet tweets cotaining the the below twitter tags :
 
 ```
-#cybersecurity #pentesting #security #infosec #linux #Bugbountytip #bugbountytips #malware #hacking
+#cybersecurity #pentesting #security #infosec #linux #Bugbountytip #bugbountytips #malware #hacking #frida
 ```
 Of course, the bot was optimized to use with other Twitter operators queries ( you can know more Twitter operators here : [Twitter Operators](https://developer.twitter.com/en/docs/tweets/rules-and-filtering/overview/standard-operators)
 
 # Demo Video of the bot functioning :
 
-[![The Youtube Video](http://i3.ytimg.com/vi/omYR1MJt_NQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=l3qms955nWo)
+[![The Youtube Video](http://i3.ytimg.com/vi/omYR1MJt_NQ/maxresdefault.jpg)
 
 # Requirements : 
 
