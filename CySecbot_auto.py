@@ -29,7 +29,7 @@ except:
     logger.info(" \033[0;31mError during authentication\033[0m")
     sys.exit(0)
 
-searching = "(#cybersecurity OR #pentesting OR #security OR #infosec OR #linux OR #Bugbountytip OR #bugbountytips OR #malware OR #hacking)" # change to your own queries
+searching = "(#cybersecurity OR #pentesting OR #security OR #infosec OR #linux OR #Bugbountytip OR #bugbountytips OR #malware OR #hacking OR #frida)" # change to your own queries
 
 for tweet in api.search(q=searching, lang="en", count=100, tweet_mode='extended', result_type='recent', include_entities=1):
     try:
