@@ -30,7 +30,7 @@ APScheduler
 
 ### ``` get_token.py ```
 - To get "Access Token & Access Token Secret" to use the bot with another account (other than the app creator account)
-![get_token.py file](creenshots/get_token.png)
+![get_token.py file](screenshots/get_token.png)
 
 ***NOTE : [FOR CySecbot_user.py] AFTER GETTING THE TOKEN KEYS, YOU CAN SET THE KEY VALUES AS ENV VARIAVLES (RECOMMANDED WAY TO STORE YOUR KEYS)***
 
